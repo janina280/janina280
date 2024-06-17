@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Bloggie App](https://github.com/janina280/Bloggie)
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **php**
 
 - 💬 Ask me about **ASP.NET Core**
 
