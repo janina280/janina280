@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janina280&label=Profile%20views&color=0e75b6&style=flat" alt="janina280" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href=" https://www.google.com/search?sca_esv=a5eb3d1e7cbb0edf&rlz=1C1KNTJ_enRO1078RO1078&sxsrf=ADLYWIJOItnA3wlO9hSRosTka6cC6ZLQyA:1729777355272&q=github+girl+coding+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dfTO2j0DHibpJvRr5Se0QXCHeGskYWPg-gA7Pf9aOoSr5Ja5m24WHijE7-zcAcxXLLFqNo72iF0S4MBO8sMAUjlt-ZNmxZKZH5M_u1Nq3QXxOYXKtU5OIsCCM8voc2gHzff1Org&udm=2&sa=X&ved=2ahUKEwjOrLTmkqeJAxXNxQIHHdiNMLEQxKsJegQIChAB&ictx=0&biw=1536&bih=695&dpr=1.25#vhid=dbrfb5dvHO4gVM&vssid=mosaic" target="blank"</a> </p>
 
-- 🔭 I’m currently working on [CampusConnect App](https://github.com/janina280/CampusConnect)
+- 🔭 I’m current
+- ly working on [CampusConnect App](https://github.com/janina280/CampusConnect)
 
 - 🌱 I’m currently learning **React**
 
