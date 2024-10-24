@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janina280&label=Profile%20views&color=0e75b6&style=flat" alt="janina280" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-![gig](https://github.com/user-attachments/assets/d9f99c27-72cb-4ba2-8c5a-0396af4cb76c)
 
 - 🔭 I’m currently working on [CampusConnect App](https://github.com/janina280/CampusConnect)
 
