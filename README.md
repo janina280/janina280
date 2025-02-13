@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janina280&show_icons=true&locale=en&layout=compact" alt="janina280" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janina280&show_icons=true&locale=en" alt="janina280" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janina280&" alt="janina280" /></p>
