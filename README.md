@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/HackerRank-5★_Java-Green?style=flat-square&logo=HackerRank" />
   </a>
   <a href="https://www.interviewbit.com/profile/cocei-janina/" target="_blank">
-<img src="https://img.shields.io/badge/InterviewBit-Profile-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAxOCAxOCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTkgMEM0LjAzNSAwIDAgNC4wMzUgMCA5czQuMDM1IDkgOSA5IDktNC4wMzUgOS05UzEzLjk2NSAweiIvPjwvc3ZnPg==" alt="InterviewBit" />
-  </a>
+  <img src="https://img.shields.io/badge/InterviewBit-Profile-blue?style=flat-square" alt="InterviewBit" />
+</a>
 </p>
 
 
