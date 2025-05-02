@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **coceijanina@gmail.com**
+- 📫 How to reach me **coceijanina@yahoo.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: **I love to blend humor with code! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
-  🔹 Solving problems on platforms like HackerRank and InterviewBit to improve my DSA skills.
+   🔹 I’m currently sharpening my Data Structures and Algorithms skills through platforms like HackerRank and InterviewBit.
 </p>
 
 <p align="left">
